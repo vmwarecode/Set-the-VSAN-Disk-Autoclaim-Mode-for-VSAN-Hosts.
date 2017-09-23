@@ -1,1 +1,0 @@
-# Set-the-VSAN-Disk-Autoclaim-Mode-for-VSAN-Hosts.
